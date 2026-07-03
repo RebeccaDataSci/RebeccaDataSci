@@ -37,4 +37,7 @@ This combination is rare – and it's exactly what makes me effective at transla
 | **Industrial relevance** | Logic directly transferable to **MTTR/MTBF calculations**, equipment uptime, and failure rate analysis |
 | **Bonus** | Includes SQL scripts for ERP/maintenance databases |
 
-> 🔧 *Actively seeking a **Data Scientist/Analyst roles** where I can apply my unique background – Geology, Chemistry, Electrical, and Data Science – to improve equipment performance and reduce maintenance downtime.*
+   📌 **Featured Project**: [SANS 10142 Voltage Drop Checker](https://github.com/RebeccaDataSci/sans10142-voltage-drop-checker) 
+   Python tool for electrical compliance checks using pandas & numpy.
+
+> 🔧 *Actively seeking a **Data Analyst roles** where I can apply my unique background – Geology, Chemistry, Electrical, and Data Science – to solve operational problems. Particular interest in equipment reliability, maintenance analytics, and industrial efficiency*
