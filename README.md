@@ -37,7 +37,7 @@ This combination is rare – and it's exactly what makes me effective at transla
 | **Bonus** | Includes sample cable data and real SANS 10142-1 formulas. Built by a former electrician. |
 
 ### 2. HR Analytics System
-**Data Cleaning + Metrics Pipeline** | [View Repo](#)
+**Data Cleaning + Metrics Pipeline** | [View Repo](https://github.com/RebeccaDataSci/hr-analytics-system)
 
 *A complete data cleaning + metrics system built for Wits PGDip Programming for Data Science.*
 
